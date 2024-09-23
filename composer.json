@@ -36,7 +36,7 @@
         "phpspec/prophecy": "^1.15",
         "phpstan/phpstan": "^1.9",
         "symfony/twig-bridge": "^5.4 || ^6.0",
-        "symfony/var-dumper": "^5.4 || ^6.0"
+        "symfony/var-dumper": "^7.1.5"
     },
     "minimum-stability": "stable",
     "autoload": {
